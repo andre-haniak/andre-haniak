@@ -1,4 +1,4 @@
-## Olá, eu sou o André Luís, estudante de programação, amante dos jogos e tecnologia! 🎮💻 
+## Olá, eu sou o André Luís, estudante de programação, amante de jogos e tecnologia! 🎮💻 
 
 <div style="display: inline_block">
   <img align="right" alt="Andre-pic" height="120" style="border-radius:50px;"src="https://avatars.githubusercontent.com/u/43660680?s=400&u=ccfef0a1597c774111807dee6c1b0846a4de7b68&v=4">
